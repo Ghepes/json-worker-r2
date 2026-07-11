@@ -1,5 +1,6 @@
 {
-  "name": "r2-json-worker",
+  // wrangler.jsonc
+  "name": "json-worker-r2",
   "main": "src/index.js",
   "compatibility_date": "2026-07-11",
 
